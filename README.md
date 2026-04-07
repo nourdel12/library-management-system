@@ -63,7 +63,8 @@ Book/User/Supplier     -> Models
 - Observable Lists (JavaFX)
 ```
 ---
-##  Author
+##  Authors
 
 Nour Adel
+Mawada Osama
 
